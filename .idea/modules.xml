@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nwct.iml" filepath="$PROJECT_DIR$/nwct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nwct-client/nwct-client.iml" filepath="$PROJECT_DIR$/../nwct-client/nwct-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nwct-server/nwct-server.iml" filepath="$PROJECT_DIR$/../nwct-server/nwct-server.iml" />
+    </modules>
+  </component>
+</project>
